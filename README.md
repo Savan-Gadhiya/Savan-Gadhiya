@@ -1,4 +1,7 @@
-<p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Savan Gadhiya</h2></p>
+<!-- ![Savan Gadhiya's Banner](./assets/Profile6.gif) -->
+![Savan Gadhiya's Banner](https://en.bloggif.com/tmp/721d5a07029491b5c7973cc96bd80c2b/text.gif?1625633888)
+
+<p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2> &nbsp;Hey there! I'm Savan Gadhiya</h2></p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
