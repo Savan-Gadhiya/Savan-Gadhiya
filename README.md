@@ -1,4 +1,4 @@
-<p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='35' align="left"/><h2>Hey there! I'm Savan Gadhiya</h2></p>
+<p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Savan Gadhiya</h2></p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
