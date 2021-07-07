@@ -14,10 +14,10 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 ✍️ &nbsp;In my free time, I am mostly adding new skills to my repertoire and sometimes open-sourcing.\
 ✉️ &nbsp;You can shoot me an email at gadhiyasavan001@gmail.com! I'll try to respond as soon as I can.
-<br />
+<!-- <br /> -->
 
-<img width="250" alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 <br />
+<img width="300" alt="Night Coding" src="./assets/Night-Coding.gif" align="right" />
 
 ### 🛠 &nbsp;Tech Stack
 <br />
