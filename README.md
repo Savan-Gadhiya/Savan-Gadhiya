@@ -45,10 +45,11 @@
 
 <p align="center">
 <a href="https://github.com/savan-gadhiya">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=savan-gadhiya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ddd7" style="margin: 5px 10px" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savan-gadhiya&layout=compact&hide=handlebars&theme=algolia&bg_color=0D1117&hide_border=false&&title_color=00ddd7" alt="Savan Gadhiya's most used languages" style="margin: 5px 10px" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=savan-gadhiya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ddd7" style="margin: 5px 10px" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savan-gadhiya&layout=compact&hide=handlebars&theme=algolia&bg_color=0D1117&hide_border=false&&title_color=00ddd7" alt="Savan Gadhiya's most used languages" style="margin: 5px 10px" />
   <!-- custom_title=Savan%27s%20Most%20Used%20Languages% -->
 </p>
+<br />
 <p align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Savan-gadhiya&theme=dark&background=0D1117&border=FEFEFE&ring=00DDD7&fire=00DDD7&stroke=F1F1F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00DDD7&dates=CACACA" alt="Savan Gadhiya's streaks" />
 </p>
