@@ -1,15 +1,28 @@
 <!-- ![Savan Gadhiya's Banner](./assets/Profile6.gif) -->
-![Savan Gadhiya's Banner](https://en.bloggif.com/tmp/721d5a07029491b5c7973cc96bd80c2b/text.gif?1625633888)
+<!-- ![Savan Gadhiya's Banner](./assets/Profile7.gif) -->
 
-<p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2> &nbsp;Hey there! I'm Savan Gadhiya</h2></p>
+<!-- ![](./assets/profileImg.gif) -->
+<p align="center">
+    <img src="assets/Profile%20Banner.gif" alt="Savan Gadhiya's Profile Banner" />
+</p>
+
+
+<p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1> &nbsp;Hey there! I'm Savan Gadhiya</h1></p>
 
 ### 👨🏻‍💻 &nbsp;About Me
-
-
+🎓 &nbsp;I'm currently studying Computer Engineering at the Birla Vishvakarma Mahavidyalaya Engineering College Anand Gujarat.\
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+✍️ &nbsp;In my free time, I am mostly adding new skills to my repertoire and sometimes open-sourcing.\
+✉️ &nbsp;You can shoot me an email at gadhiyasavan001@gmail.com! I'll try to respond as soon as I can.
 <br />
-### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+<img width="250" alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
+<br />
+
+### 🛠 &nbsp;Tech Stack
+<br />
+
+<!-- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)\
@@ -24,6 +37,36 @@
 
 
 
+<br /><br />
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<br />
+
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Savan-gadhiya&theme=dark&background=1B1B1B&border=DDDDDD&stroke=FFFFFF&sideNums=FFFFFF&dates=9C9C9C&ring=00DDD7&fire=00DDD7&currStreakLabel=00DDD7"/>
+<a href="https://github.com/savan-gadhiya">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=savan-gadhiya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ddd7" style="margin: 5px 10px" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savan-gadhiya&layout=compact&hide=handlebars&theme=algolia&bg_color=0D1117&hide_border=false&&title_color=00ddd7" alt="Savan Gadhiya's most used languages" style="margin: 5px 10px" />
+  <!-- custom_title=Savan%27s%20Most%20Used%20Languages% -->
 </p>
+<p align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Savan-gadhiya&theme=dark&background=0D1117&border=FEFEFE&ring=00DDD7&fire=00DDD7&stroke=F1F1F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00DDD7&dates=CACACA" alt="Savan Gadhiya's streaks" />
+</p>
+</a>
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=savan-gadhiya&theme=react-dark&hide_border=false" /> -->
+
+<br /><br />
+
+### 🤝🏻 &nbsp;Connect with Me
+<p align="center">
+    <a href="https://www.linkedin.com/in/savangadhiya/"><img src="https://img.shields.io/badge/-Savan%20Gadhiya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:gadhiyasavan001@gmail.com"><img src="https://img.shields.io/badge/-gadhiyasavan001@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://www.instagram.com/savan_gadhiya_24"><img src="https://img.shields.io/badge/-@Savan_Gadhiya_24-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=savan-gadhiya&label=Profile%20views&color=0e75b6&style=plastic" alt="Savan Gadhiya's profile view count" /> </p>
+<!-- <br /><br />
+<p align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=savan-gadhiya&theme=react-dark&hide_border=false">
+</p> -->
