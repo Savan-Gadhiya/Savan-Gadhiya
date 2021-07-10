@@ -12,7 +12,7 @@
 🎓 &nbsp;I'm currently studying Computer Engineering at the Birla Vishvakarma Mahavidyalaya Engineering College Anand Gujarat.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 ✍️ &nbsp;In my free time, I am mostly adding new skills to my repertoire and sometimes open-sourcing.\
-✉️ &nbsp;You can shoot me an email at gadhiyasavan001@gmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at savangadhiya7623@gmail.com! I'll try to respond as soon as I can.
 
 
 <br />
@@ -65,7 +65,7 @@
 <br />
 <p align="center">
     <a href="https://www.linkedin.com/in/savangadhiya/"><img src="https://img.shields.io/badge/-Savan%20Gadhiya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:gadhiyasavan001@gmail.com"><img src="https://img.shields.io/badge/-gadhiyasavan001@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="mailto:savangadhiya7623@gmail.com"><img src="https://img.shields.io/badge/-savangadhiya7623@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://www.instagram.com/savan_gadhiya_24"><img src="https://img.shields.io/badge/-@Savan_Gadhiya_24-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
