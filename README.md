@@ -50,7 +50,6 @@
 <a href="https://github.com/savan-gadhiya">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Savan-Gadhiya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ddd7&hide_border=false&border_color=FFFFFF"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savan-gadhiya&layout=compact&hide=handlebars&theme=algolia&bg_color=0D1117&hide_border=false&&title_color=00ddd7&border_color=FFFFFF" alt="Savan Gadhiya's most used languages"/>
-  <!-- custom_title=Savan's%20Most%20Used%20Languages% -->
 </p>
 <br />
 <p align="center">
