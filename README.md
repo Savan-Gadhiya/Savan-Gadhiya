@@ -47,7 +47,7 @@
 <br />
 
 <p align="center">
-<a href="https://github.com/savan-gadhiya">
+<a href="https://github.com/savan-gadhiya" target="_blank">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Savan-Gadhiya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ddd7&hide_border=false&border_color=FFFFFF"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savan-gadhiya&layout=compact&hide=handlebars&theme=algolia&bg_color=0D1117&hide_border=false&&title_color=00ddd7&border_color=FFFFFF" alt="Savan Gadhiya's most used languages"/>
 </p>
@@ -64,9 +64,9 @@
 ---
 <br />
 <p align="center">
-    <a href="https://www.linkedin.com/in/savangadhiya/"><img src="https://img.shields.io/badge/-Savan%20Gadhiya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:savangadhiya7623@gmail.com"><img src="https://img.shields.io/badge/-savangadhiya7623@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="https://www.instagram.com/savan_gadhiya_24"><img src="https://img.shields.io/badge/-@Savan_Gadhiya_24-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/savangadhiya/" target="_blank"><img src="https://img.shields.io/badge/-Savan%20Gadhiya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:savangadhiya7623@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-savangadhiya7623@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://www.instagram.com/savan_gadhiya_24" target="_blank"><img src="https://img.shields.io/badge/-@Savan_Gadhiya_24-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=savan-gadhiya&label=Profile%20views&color=0e75b6&style=plastic" alt="Savan Gadhiya's profile view count" /> </p>
