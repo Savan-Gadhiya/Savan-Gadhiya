@@ -12,7 +12,7 @@
 🎓 &nbsp;I'm currently studying Computer Engineering at the Birla Vishvakarma Mahavidyalaya Engineering College Anand Gujarat.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 ✍️ &nbsp;In my free time, I am mostly adding new skills to my repertoire and sometimes open-sourcing.\
-✉️ &nbsp;You can shoot me an email at savangadhiya7623@gmail.com! I'll try to respond as soon as I can.
+<!-- ✉️ &nbsp;You can shoot me an email at savangadhiya7623@gmail.com! I'll try to respond as soon as I can. -->
 
 
 <br />
