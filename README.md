@@ -65,7 +65,6 @@
 <br />
 <p align="center">
     <a href="https://www.linkedin.com/in/savangadhiya/" target="_blank"><img src="https://img.shields.io/badge/-Savan%20Gadhiya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="https://www.instagram.com/savan_gadhiya_24" target="_blank"><img src="https://img.shields.io/badge/-@Savan_Gadhiya_24-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=savan-gadhiya&label=Profile%20views&color=0e75b6&style=plastic" alt="Savan Gadhiya's profile view count" /> </p>
