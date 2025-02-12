@@ -48,7 +48,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br /><br />
-
+<!-- 
 ### ⚙️ &nbsp;GitHub Analytics
 ---
 <br />
@@ -63,10 +63,10 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Savan-gadhiya&theme=dark&background=0D1117&hide_border=&border_color=FFFFFF&ring=00DDD7&fire=00DDD7&stroke=F1F1F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00DDD7&dates=CACACA" alt="Savan Gadhiya's streaks" />
 </p>
 </a>
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=savan-gadhiya&theme=react-dark&hide_border=false" /> -->
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=savan-gadhiya&theme=react-dark&hide_border=false" /> -- >
 
 <br /><br />
-
+ -->
 ### 🤝🏻 &nbsp;Connect with Me
 ---
 <br />
